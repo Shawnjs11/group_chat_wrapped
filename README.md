@@ -1,5 +1,9 @@
 # group_chat_wrapped
-Framework code to create a year in review for cleaned group chat apple data
+Framework code to create a year in review for cleaned group chat apple data (static data)
+
+First: pull the data from a database, or get any imessage chat data
+Second: clean the data (use the cleaning_chat.R)
+Third: With two cleaned csv files (with and without interactions), use the shiny app folder for templates of the ui and the server
 
 Things to note:
 - Certain code was given placeholders/removed, meaning this is just a framework of a chat wrapped/dashboard
