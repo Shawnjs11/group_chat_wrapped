@@ -1,5 +1,5 @@
 # group_chat_wrapped
-Just a student with a fun individual project idea to share message data with friends.
+Just a student with a fun and quick individual project idea to share message data with friends.
 
 Framework code to create a year in review for cleaned group chat apple data (static data)
 
