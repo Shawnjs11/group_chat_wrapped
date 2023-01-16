@@ -13,3 +13,5 @@ To pull the data, I used this as support: (https://apple.stackexchange.com/quest
 
 
 This dashboard app was initially inspired by the work of Garrick Aden Buie's Conference Tweet Dashboard (https://garrickadenbuie.com), as it helped figure out how I wanted to present my work. It also provided a real example of the mechanics of an r shiny dashboard, as I continued to learn along the way. 
+
+Any more info on creating shiny dashboards can be found online, such as here (https://rstudio.github.io/shinydashboard/get_started.html)
